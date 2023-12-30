@@ -1,0 +1,1 @@
+jsLoader.showAddedScript("Helloy", "info");
